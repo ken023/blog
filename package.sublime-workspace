@@ -1,0 +1,227 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fun",
+				"function"
+			],
+			[
+				"Phone",
+				"phonecatApp"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"nex",
+				"Next"
+			],
+			[
+				"Ne",
+				"Nexus"
+			],
+			[
+				"phon",
+				"phonecatApp"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install package",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: InstallPackage",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 181.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/myAugular/v1.0-update/angular-phonecat/app/bower_components/angular-route/angular-route.js",
+		"/C/myAugular/v1.0-update/angular-phonecat/app/testcodes/HelloWorld.html",
+		"/C/myAugular/v1.0-update/angular-phonecat/app/testcodes/first.html",
+		"/C/myAugular/v1.0-update/angular-phonecat/app/testcodes/myTest.html",
+		"/C/myAugular/v1.0-update/angular-phonecat/app/index.html",
+		"/C/myAugular/v1.0-update/angular-phonecat/app/js/controllers.js",
+		"/C/myAugular/v1.0-update/angular-phonecat/app/first.html",
+		"/C/Users/huachunk/AppData/Roaming/Sublime Text 2/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/C/myAugular/v1.0-update/angular-phonecat/app/myTest.html",
+		"/C/myAugular/v1.0-update/angular-phonecat/app/myTest",
+		"/C/Users/huachunk/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/huachunk/AppData/Roaming/Sublime Text 2/Packages/Emmet/Emmet.sublime-settings",
+		"/C/myAugular/v1.0-update/angular-phonecat/test/e2e/scenarios.js",
+		"/C/Users/huachunk/Desktop/Angular JS/实验codes/first.html",
+		"/C/Users/huachunk/Desktop/spdb_db2/spdb_db2/spdb_db2mon_connect.ksh",
+		"/C/Users/huachunk/Desktop/spdb_db2/spdb_db2/spdb_db2mon_logutil.ksh",
+		"/C/Users/huachunk/Desktop/Angular JS/Angular JS 视频-大漠穷秋/第二章/AngularJS实战第二章第七节综合应用BookStore源代码/BookStore/src/js/app.js",
+		"/C/myAugular/v1.0-update/angular-phonecat/app/js/app.js"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"bottom",
+			"4t",
+			"5",
+			"bottom",
+			"a",
+			"5",
+			"html:5",
+			"5",
+			"link",
+			"10",
+			"div.col-md-12",
+			"12",
+			"p"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 255.0,
+	"status_bar_visible": true
+}
